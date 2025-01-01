@@ -1,0 +1,1 @@
+savedcmd_/home/galaxy/Desktop/kernel_monitor_project/kernel_monitor.mod := printf '%s\n'   kernel_monitor.o | awk '!x[$$0]++ { print("/home/galaxy/Desktop/kernel_monitor_project/"$$0) }' > /home/galaxy/Desktop/kernel_monitor_project/kernel_monitor.mod

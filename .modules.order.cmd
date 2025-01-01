@@ -1,1 +1,0 @@
-savedcmd_/home/galaxy/Desktop/kernel_monitor_project/modules.order := {   echo /home/galaxy/Desktop/kernel_monitor_project/kernel_monitor.o; :; } > /home/galaxy/Desktop/kernel_monitor_project/modules.order

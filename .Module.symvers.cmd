@@ -1,1 +1,0 @@
-savedcmd_/home/galaxy/Desktop/kernel_monitor_project/Module.symvers :=  scripts/mod/modpost -M        -o /home/galaxy/Desktop/kernel_monitor_project/Module.symvers -T /home/galaxy/Desktop/kernel_monitor_project/modules.order -i Module.symvers -e 

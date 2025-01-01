@@ -26,8 +26,8 @@ This project consists of a Linux kernel module and a user-space application to g
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/galaxythereal/Linux-Kernel-Monitor.git
+cd Linux-Kernel-Monitor
 ```
 
 ---
@@ -103,7 +103,7 @@ sudo apt install libelf-dev libssl-dev libgmp3-dev libmpc-dev
 1. **Build the Kernel Module:**
 
    ```bash
-   cd /path/to/repository
+   cd /path/to/linux/repository
    make -C /path/to/linux/source M=$(pwd) modules
    ```
 

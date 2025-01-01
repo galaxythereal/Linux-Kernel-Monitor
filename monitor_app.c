@@ -1,3 +1,30 @@
+/****************************************************************************
+ * ░██████╗░░█████╗░██╗░░░░░░█████╗░██╗░░██╗██╗░░░██╗
+ * ██╔════╝░██╔══██╗██║░░░░░██╔══██╗╚██╗██╔╝╚██╗░██╔╝
+ * ██║░░██╗░███████║██║░░░░░███████║░╚███╔╝░░╚████╔╝░
+ * ██║░░╚██╗██╔══██║██║░░░░░██╔══██║░██╔██╗░░░╚██╔╝░░
+ * ╚██████╔╝██║░░██║███████╗██║░░██║██╔╝╚██╗░░░██║░░░
+ * ░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░
+ *
+ * File         : monitor_app.c
+ * Version      : 1.0
+ * Description  : this file contains the main application that reads
+ * the kernel module data from the /proc file system and prints it to the
+ *console Author       : Mahmoud Ezzat Date         : 2025-01-01
+ ****************************************************************************/
+
+#ifndef monitor_app_H
+#define monitor_app_H
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif /* monitor_app_H */
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>

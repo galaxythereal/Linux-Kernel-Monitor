@@ -69,5 +69,5 @@ module_init(kernel_monitor_init);
 module_exit(kernel_monitor_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Mahmoud Ezzat");
 MODULE_DESCRIPTION("Kernel Monitor Module");
